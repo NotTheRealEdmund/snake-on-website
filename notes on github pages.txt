@@ -7,3 +7,8 @@ Scroll down to Github Pages
 Under Source choose master branch and save
 When you scroll down again, it says that the site is ready to be published at an url
 Copy and paste that url and put it in the description of your repo for easier access
+
+VERY IMPORTANT!!
+github pages will look for index.html in the parent directory, so you must have an index.html first before redirecting
+to any other .html page or static file.
+You MUST have an index.html file!!
