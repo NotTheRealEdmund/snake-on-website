@@ -1,0 +1,9 @@
+Upload html files to github pages:
+
+After pushing the files to github repo
+Go to your repo on github.com
+Settings
+Scroll down to Github Pages
+Under Source choose master branch and save
+When you scroll down again, it says that the site is ready to be published at an url
+Copy and paste that url and put it in the description of your repo for easier access
